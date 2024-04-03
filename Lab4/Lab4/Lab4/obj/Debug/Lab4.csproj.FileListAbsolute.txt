@@ -1,0 +1,10 @@
+C:\Users\arthu\source\repos\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\arthu\source\repos\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\arthu\source\repos\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\arthu\source\repos\Lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Users\arthu\source\repos\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\arthu\source\repos\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\arthu\source\repos\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\arthu\source\repos\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\arthu\source\repos\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
